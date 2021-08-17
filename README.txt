@@ -2,7 +2,7 @@ To Run On Command Line: python webscraperdriver.py
 
 Run on Eclipse: click run button on webscraperdriver.py
 
-NOTE: This program was made with Python 3.7.2
+NOTE: This program was made with PyDev on Eclispe with Python 3.7.2. The pycache files are from the Eclipse project settings. 
 
 The idea for my Metacritic webscraper came from after doing research on the available html
 parser packages on Python. After learning about Beautiful Soup and Mechanical Soup, I decided
